@@ -1,9 +1,5 @@
 # template-app-cpp-todo
 
-To install the C++ SDK:
-1. Fetch and extract the Ditto package. [Downloading and Unpacking Ditto](https://docs.ditto.live/installing-cpp#mNh1p:~:text=)-,Downloading%20and%20Unpacking%20Ditto,-Download%20Ditto.tar)
-2. Configure your app to link to the Ditto static library. [Linking to Ditto](https://docs.ditto.live/installing-cpp#KF0yE:~:text=Add%20%2Dlditto%20as%20a%20compilation%20step%20in%20the%20main.cpp%20source%20file%3A)
-
 ## Downloading and Unpacking Ditto
 
 Download Ditto.tar.gz and unpack an archive containing the libditto.a static library and Ditto header:
